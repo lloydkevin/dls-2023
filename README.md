@@ -13,7 +13,7 @@
     - Apps
       - [YNAB](https://www.ynab.com/)
       - [Every Dollar](https://www.ramseysolutions.com/ramseyplus/everydollar)
-      - [Empower - Tracking](https://www.empower.com/)
+      - [Empower](https://www.empower.com/) - Spending tracker
     - Bank Accounts with Sub Accounts:
       - [Ally Bank](https://www.ally.com/bank/online-savings-account/)
       - [Capital One - 360 Performance Savings](https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/)
